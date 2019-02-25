@@ -4,7 +4,10 @@ Searching is an incredibly important part of how humans interact with data, and 
 This project contains information and code samples for building highly-scalable, and feature-rich applications with Azure Search.
 
 ## Why Azure Search
-* invested in Azure
+
+* Invested in Azure
+* Managed search engine with Lucene syntax for portability
+* Free tier!
 
 
 Slides: building-apps-with-azure-search.pptx
