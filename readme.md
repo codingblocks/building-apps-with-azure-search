@@ -13,5 +13,6 @@ This project contains information and code samples for building highly-scalable,
 Slides: building-apps-with-azure-search.pptx
 Video: TODO
 Sample Code: TODO
+Useful admin tool for working with Azure Search: https://github.com/codingblocks/azure-search-admin
 
 Licensed under the [MIT License](https://tldrlegal.com/license/mit-license)

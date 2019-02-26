@@ -1,7 +1,6 @@
 {
     "value": [
         {
-            "@search.action": "upload",
             "slug": "ro-mobos-cluj-napoca",
             "title": "RO MobOS",
             "location": "Cluj-Napoca",
@@ -13,7 +12,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "fitc-amsterdam",
             "title": "FITC Amsterdam",
             "location": "Amsterdam",
@@ -25,7 +23,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "appdevcon-amsterdam",
             "title": "AppDevCon",
             "location": "Amsterdam",
@@ -37,7 +34,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "mobiletech-munich",
             "title": "MobileTech",
             "location": "Munich",
@@ -49,7 +45,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "greachconf-madrid",
             "title": "GreachConf",
             "location": "Madrid",
@@ -61,7 +56,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "codemobile-chester",
             "title": "CodeMobile",
             "location": "Chester",
@@ -73,7 +67,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "itweb-cloud-summit-johannesburg",
             "title": "ITWeb Cloud Summit",
             "location": "Johannesburg",
@@ -85,7 +78,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "code-beam-sf-san-francisco",
             "title": "Code BEAM SF",
             "location": "San Francisco",
@@ -97,7 +89,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "elixirconf-eu-prague",
             "title": "ElixirConf EU",
             "location": "Prague",
@@ -109,7 +100,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "code-beam-sto-stockholm",
             "title": "Code BEAM STO",
             "location": "Stockholm",
@@ -121,7 +111,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "parallel-heidelberg",
             "title": "parallel",
             "location": "Heidelberg",
@@ -133,7 +122,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "developerweek-san-francisco",
             "title": "DeveloperWeek",
             "location": "San Francisco",
@@ -145,7 +133,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "techchill-riga",
             "title": "Techchill",
             "location": "Riga",
@@ -157,7 +144,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "qcon-london",
             "title": "QCon",
             "location": "London",
@@ -169,7 +155,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devoxx-paris",
             "title": "Devoxx",
             "location": "Paris",
@@ -181,7 +166,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "o-reilly-software-architecture-conference-san-jose-ca",
             "title": "O’Reilly Software Architecture Conference",
             "location": "San Jose, CA",
@@ -193,7 +177,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "frontend-developer-love-amsterdam",
             "title": "Frontend Developer Love",
             "location": "Amsterdam",
@@ -205,7 +188,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "vue-js-amsterdam",
             "title": "Vue.js Amsterdam",
             "location": "Amsterdam",
@@ -217,7 +199,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "gophercon-singapore",
             "title": "GopherCon Singapore",
             "location": "Singapore",
@@ -229,7 +210,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "gophercon-europe-tenerife",
             "title": "GopherCon Europe",
             "location": "Tenerife",
@@ -241,7 +221,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "gocon-canada-toronto",
             "title": "GoCon Canada",
             "location": "Toronto",
@@ -253,7 +232,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "gophercon-san-diego-ca",
             "title": "GopherCon",
             "location": "San Diego, CA",
@@ -265,7 +243,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "graphql-day-toronto",
             "title": "GraphQL Day",
             "location": "Toronto",
@@ -277,7 +254,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "graphql-asia-bangalore",
             "title": "GraphQL Asia",
             "location": "Bangalore",
@@ -289,7 +265,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "graphql-conf-berlin",
             "title": "GraphQL Conf",
             "location": "Berlin",
@@ -301,7 +276,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "react-india-goa",
             "title": "React India",
             "location": "Goa",
@@ -313,7 +287,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "frontend-conference-zurich",
             "title": "Frontend Conference Zurich",
             "location": "Zurich",
@@ -325,7 +298,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ng-de-berlin",
             "title": "NG-DE",
             "location": "Berlin",
@@ -337,7 +309,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "componentsconf-melbourne",
             "title": "ComponentsConf",
             "location": "Melbourne",
@@ -349,7 +320,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "berlin-python-pizza",
             "title": "Berlin Python Pizza",
             "location": "Berlin",
@@ -361,7 +331,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "pycon-sk-bratislava",
             "title": "PyCon SK",
             "location": "Bratislava",
@@ -373,7 +342,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "djangocon-europe-copenhagen",
             "title": "DjangoCon Europe",
             "location": "Copenhagen",
@@ -385,7 +353,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "moscowpythonconf-",
             "title": "MoscowPythonConf++",
             "location": "Moscow",
@@ -397,7 +364,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "pycon-cleveland-oh",
             "title": "PyCon",
             "location": "Cleveland, OH",
@@ -409,7 +375,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "pycon-italia-florence",
             "title": "PyCon Italia",
             "location": "Florence",
@@ -421,7 +386,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "nullcon-goa",
             "title": "nullcon",
             "location": "Goa",
@@ -433,7 +397,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ixdc-china",
             "title": "IXDC",
             "location": "China",
@@ -445,7 +408,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "webstock-wellington",
             "title": "Webstock",
             "location": "Wellington",
@@ -457,7 +419,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "sustainable-ux-design-vs-climate-change-online",
             "title": "Sustainable UX: design vs. climate change",
             "location": "Online",
@@ -469,7 +430,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "awwwards-digital-thinkers-conference-amsterdam",
             "title": "Awwwards: Digital Thinkers Conference",
             "location": "Amsterdam",
@@ -481,7 +441,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "you-got-this-london",
             "title": "You Got This",
             "location": "London",
@@ -493,7 +452,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "uxd-healthcare-london",
             "title": "UXD Healthcare",
             "location": "London",
@@ -505,7 +463,6 @@
             "status": "UNKNOWN"
         },
         {
-            "@search.action": "upload",
             "slug": "confab-minneapolis-mn",
             "title": "Confab",
             "location": "Minneapolis, MN",
@@ -517,7 +474,6 @@
             "status": "UNKNOWN"
         },
         {
-            "@search.action": "upload",
             "slug": "bogota-design-festival",
             "title": "Bogota Design Festival",
             "location": "Bogota",
@@ -529,7 +485,6 @@
             "status": "UNKNOWN"
         },
         {
-            "@search.action": "upload",
             "slug": "graphics-interface-kingston",
             "title": "Graphics Interface",
             "location": "Kingston",
@@ -541,7 +496,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ux-london",
             "title": "UX London",
             "location": "London",
@@ -553,7 +507,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "designops-global-conference-manchester",
             "title": "DesignOps Global Conference",
             "location": "Manchester",
@@ -565,7 +518,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "agile-beyond-detroit-mi",
             "title": "Agile & Beyond",
             "location": "Detroit, MI",
@@ -577,7 +529,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "yggdrasil-sandefjord",
             "title": "Yggdrasil",
             "location": "Sandefjord",
@@ -589,7 +540,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "health-experience-design-conference-boston-ma",
             "title": "Health Experience Design Conference",
             "location": "Boston, MA",
@@ -601,7 +551,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "gdg-devfest-orlando-fl",
             "title": "GDG DevFest",
             "location": "Orlando, FL",
@@ -613,7 +562,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "gdg-devfest-chicago-il",
             "title": "GDG DevFest",
             "location": "Chicago, IL",
@@ -625,7 +573,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "gdg-devfest-minneapolis",
             "title": "GDG DevFest",
             "location": "Minneapolis",
@@ -637,7 +584,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "droidkaigi-tokyo",
             "title": "DroidKaigi",
             "location": "Tokyo",
@@ -649,7 +595,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "nn-g-ux-conference-washington-d-c-",
             "title": "NN/g UX Conference",
             "location": "Washington, D.C.",
@@ -661,7 +606,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "web-directions-design-melbourne",
             "title": "Web Directions Design",
             "location": "Melbourne",
@@ -673,7 +617,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "john-slatin-accessu-austin",
             "title": "John Slatin AccessU",
             "location": "Austin",
@@ -685,7 +628,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "uxdx-dublin",
             "title": "UXDX",
             "location": "Dublin",
@@ -697,7 +639,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dataworks-summit-melbourne",
             "title": "DataWorks Summit",
             "location": "Melbourne",
@@ -709,7 +650,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "empex-la-los-angeles",
             "title": "EMPEX LA",
             "location": "Los Angeles",
@@ -721,7 +661,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "codemash-sandusky",
             "title": "CodeMash",
             "location": "Sandusky",
@@ -733,7 +672,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "devfest-florida-orlando",
             "title": "DevFest Florida",
             "location": "Orlando",
@@ -745,7 +683,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "oop-munich",
             "title": "OOP",
             "location": "Munich",
@@ -757,7 +694,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "snowcamp-grenoble",
             "title": "SnowCamp 2019",
             "location": "Grenoble",
@@ -769,7 +705,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "microsoft-ignite-johannesburg",
             "title": "Microsoft Ignite",
             "location": "Johannesburg",
@@ -781,7 +716,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "fosdem-brussels",
             "title": "FOSDEM",
             "location": "Brussels",
@@ -793,7 +727,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "hosting-domain-conference-hyderabad",
             "title": "Hosting & Domain Conference",
             "location": "Hyderabad",
@@ -805,7 +738,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "gophercon-india-goa",
             "title": "Gophercon India",
             "location": "Goa",
@@ -817,7 +749,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "godays-berlin-",
             "title": "GoDays Berlin ",
             "location": "Berlin ",
@@ -829,7 +760,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "ios-conf-sg-singapore",
             "title": "iOS Conf SG",
             "location": "Singapore",
@@ -841,7 +771,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "dotswift-paris",
             "title": "dotSwift",
             "location": "Paris",
@@ -853,7 +782,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "ngatlanta",
             "title": "ngAtlanta",
             "location": "Atlanta",
@@ -865,7 +793,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "covalence-san-francisco",
             "title": "Covalence",
             "location": "San Francisco",
@@ -877,7 +804,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "forwardjs-san-francisco-ca",
             "title": "ForwardJS",
             "location": "San Francisco, CA",
@@ -889,7 +815,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "react-iran-tehran",
             "title": "React Iran",
             "location": "Tehran",
@@ -901,7 +826,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "ffs-conf-down-under-melbourne",
             "title": "FFS Conf Down Under",
             "location": "Melbourne",
@@ -913,7 +837,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "c-t-webdev-k-ln",
             "title": "c't <webdev>",
             "location": "Köln",
@@ -925,7 +848,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "pause-fest-melbourne",
             "title": "Pause Fest",
             "location": "Melbourne",
@@ -937,7 +859,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "jsconf-hawaii-hawai-i",
             "title": "JSConf Hawaii",
             "location": "Hawaiʻi",
@@ -949,7 +870,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "frontfest-madrid",
             "title": "FrontFest",
             "location": "Madrid",
@@ -961,7 +881,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "we-local-baltimore-baltimore-md",
             "title": "WE Local Baltimore",
             "location": "Baltimore, MD",
@@ -973,7 +892,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "phpbenelux-conference-antwerp",
             "title": "PHPBenelux Conference",
             "location": "Antwerp",
@@ -985,7 +903,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "drupalcamp-nj-princeton",
             "title": "DrupalCamp NJ",
             "location": "Princeton",
@@ -997,7 +914,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "sunshinephp-miami",
             "title": "SunshinePHP",
             "location": "Miami",
@@ -1009,7 +925,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "pytennessee-nashville-us",
             "title": "PyTennessee",
             "location": "Nashville, US",
@@ -1021,7 +936,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "rubyconf-goa",
             "title": "RubyConf",
             "location": "Goa",
@@ -1033,7 +947,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "rubyconf-au-melbourne",
             "title": "RubyConf AU",
             "location": "Melbourne",
@@ -1045,7 +958,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "rubyfuza-friends-cape-town",
             "title": "Rubyfuza & Friends",
             "location": "Cape Town",
@@ -1057,7 +969,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "shmoocon-washington",
             "title": "ShmooCon",
             "location": "Washington",
@@ -1069,7 +980,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "appsec-california-santa-monica",
             "title": "AppSec California",
             "location": "Santa Monica",
@@ -1081,7 +991,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "qubit-belgrade",
             "title": "QuBit Belgrade",
             "location": "Belgrade",
@@ -1093,7 +1002,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "uxcamp-dc-washington-dc",
             "title": "UXCamp DC",
             "location": "Washington, DC",
@@ -1105,7 +1013,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "ux-vietnam-festival-ho-chi-minh-city",
             "title": "UX Vietnam Festival",
             "location": "Ho Chi Minh city",
@@ -1117,7 +1024,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "invisible-talks-san-francisco-ca",
             "title": "Invisible Talks",
             "location": "San Francisco, CA",
@@ -1129,7 +1035,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "toronto-design-offsite-festival",
             "title": "Toronto Design Offsite Festival",
             "location": "Toronto",
@@ -1141,7 +1046,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "interaction-design-education-summit-ixda-seattle-wa",
             "title": "Interaction Design Education Summit (IxDA)",
             "location": "Seattle, WA",
@@ -1153,7 +1057,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "interaction-ixda-seattle-wa",
             "title": "Interaction (IxDA)",
             "location": "Seattle, WA",
@@ -1165,7 +1068,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "outcome-chandigarh",
             "title": "Outcome",
             "location": "Chandigarh",
@@ -1177,7 +1079,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "uxi-live-rishon-lezion-hamerkaz",
             "title": "UXI Live",
             "location": "Rishon Lezion, Hamerkaz",
@@ -1189,7 +1090,6 @@
             "status": "PAST"
         },
         {
-            "@search.action": "upload",
             "slug": "droidcon-boston",
             "title": "Droidcon",
             "location": "Boston",
@@ -1201,7 +1101,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "fitc-toronto",
             "title": "FITC Toronto",
             "location": "Toronto",
@@ -1213,7 +1112,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "android-makers-paris",
             "title": "Android Makers",
             "location": "Paris",
@@ -1225,7 +1123,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "chicago-roboto-chicago-il",
             "title": "Chicago Roboto",
             "location": "Chicago, IL",
@@ -1237,7 +1134,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "app-builders-lugano",
             "title": "App Builders",
             "location": "Lugano",
@@ -1249,7 +1145,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "droidcon-berlin",
             "title": "Droidcon",
             "location": "Berlin",
@@ -1261,7 +1156,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "mdevcamp-prague",
             "title": "mDevCamp",
             "location": "Prague",
@@ -1273,7 +1167,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "addc-app-design-development-conference-barcelona",
             "title": "ADDC - App Design & Development Conference",
             "location": "Barcelona",
@@ -1285,7 +1178,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "-andev-denver-co",
             "title": "360|AnDev",
             "location": "Denver, CO",
@@ -1297,7 +1189,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "droidcon-vienna",
             "title": "Droidcon",
             "location": "Vienna",
@@ -1309,7 +1200,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "droidcon-london",
             "title": "Droidcon",
             "location": "London",
@@ -1321,7 +1211,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "droidcon-san-francisco-ca",
             "title": "Droidcon",
             "location": "San Francisco, CA",
@@ -1333,7 +1222,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "clojure-north-toronto",
             "title": "Clojure/north",
             "location": "Toronto",
@@ -1345,7 +1233,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "heart-of-clojure-leuven",
             "title": "Heart of Clojure",
             "location": "Leuven",
@@ -1357,7 +1244,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "source-up-cape-town-",
             "title": "Source Up!",
             "location": "Cape Town ",
@@ -1369,7 +1255,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "cssconf-china-shenzhen",
             "title": "CSSConf China",
             "location": "Shenzhen",
@@ -1381,7 +1266,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "smashing-conference-san-francisco-ca",
             "title": "Smashing Conference",
             "location": "San Francisco, CA",
@@ -1393,7 +1277,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "frontend-united-utrecht",
             "title": "Frontend United",
             "location": "Utrecht",
@@ -1405,7 +1288,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "cssconf-eu-berlin",
             "title": "CSSConf EU",
             "location": "Berlin",
@@ -1417,7 +1299,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "css-day-amsterdam",
             "title": "CSS Day",
             "location": "Amsterdam",
@@ -1429,7 +1310,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "smashing-conference-toronto",
             "title": "Smashing Conference",
             "location": "Toronto",
@@ -1441,7 +1321,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "csscamp-barcelona",
             "title": "CSSCamp Barcelona",
             "location": "Barcelona",
@@ -1453,7 +1332,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "smashing-conference-freiburg",
             "title": "Smashing Conference",
             "location": "Freiburg",
@@ -1465,7 +1343,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "applied-ai-london",
             "title": "Applied AI",
             "location": "London",
@@ -1477,7 +1354,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "itweb-bi-analytics-summit-johannesburg",
             "title": "ITWeb BI & Analytics Summit",
             "location": "Johannesburg",
@@ -1489,7 +1365,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dataworks-summit-barcelona",
             "title": "DataWorks Summit",
             "location": "Barcelona",
@@ -1501,7 +1376,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "postgresconf-new-york",
             "title": "PostgresConf",
             "location": "New York",
@@ -1513,7 +1387,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "women-in-analytics-conference-columbus-oh",
             "title": "Women in Analytics Conference",
             "location": "Columbus, OH",
@@ -1525,7 +1398,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "reinforce-ai-conference-budapest",
             "title": "Reinforce AI Conference",
             "location": "Budapest",
@@ -1537,7 +1409,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "-cto-conference-las-vegas-las-vegas-nv",
             "title": "0111 CTO Conference Las Vegas",
             "location": "Las Vegas, NV",
@@ -1549,7 +1420,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "kafka-summit-new-york",
             "title": "Kafka Summit New York",
             "location": "New York",
@@ -1561,7 +1431,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "qcon-ai-san-francisco",
             "title": "QCon.ai",
             "location": "San Francisco",
@@ -1573,7 +1442,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "goto-chicago-il",
             "title": "GOTO",
             "location": "Chicago, IL",
@@ -1585,7 +1453,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "kafka-summit-london",
             "title": "Kafka Summit London",
             "location": "London",
@@ -1597,7 +1464,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "j-on-the-beach-marbella",
             "title": "J on the Beach",
             "location": "Marbella",
@@ -1609,7 +1475,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dataworks-summit-washington-dc",
             "title": "DataWorks Summit",
             "location": "Washington, DC",
@@ -1621,7 +1486,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "percona-live-austin-tx",
             "title": "Percona Live",
             "location": "Austin, TX",
@@ -1633,7 +1497,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "pgcon-ottawa",
             "title": "PGCon",
             "location": "Ottawa",
@@ -1645,7 +1508,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "goto-amsterdam",
             "title": "GOTO",
             "location": "Amsterdam",
@@ -1657,7 +1519,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dataxday-paris",
             "title": "DataXDay",
             "location": "Paris",
@@ -1669,7 +1530,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "infiniteconf-london",
             "title": "Infiniteconf",
             "location": "London",
@@ -1681,7 +1541,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ai-expo-africa-cape-town",
             "title": "AI Expo Africa",
             "location": "Cape Town",
@@ -1693,7 +1552,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ieee-international-conference-on-data-science-and-advanced-analytics-dsaa-washington-dc",
             "title": "IEEE International Conference on Data Science and Advanced Analytics (DSAA)",
             "location": "Washington, DC",
@@ -1705,7 +1563,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ieee-th-international-workshop-on-machine-learning-for-signal-processing-mlsp-pittsburgh-pa",
             "title": "IEEE 29th International Workshop on Machine Learning for Signal Processing (MLSP)",
             "location": "Pittsburgh, PA",
@@ -1717,7 +1574,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "postgresql-conference-europe-milan",
             "title": "PostgreSQL Conference Europe",
             "location": "Milan",
@@ -1729,7 +1585,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "serverless-days-hamburg",
             "title": "Serverless Days",
             "location": "Hamburg",
@@ -1741,7 +1596,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dsconf-pune",
             "title": "DSConf",
             "location": "Pune",
@@ -1753,7 +1607,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "scale-x-pasadena",
             "title": "SCaLE 17x",
             "location": "Pasadena",
@@ -1765,7 +1618,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devopsday-la-pasadena",
             "title": "DevOpsDay LA",
             "location": "Pasadena",
@@ -1777,7 +1629,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devops-pro-europe-vilnius",
             "title": "DevOps Pro Europe",
             "location": "Vilnius",
@@ -1789,7 +1640,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "srecon-americas-brooklyn-ny",
             "title": "SREcon19 Americas",
             "location": "Brooklyn, NY",
@@ -1801,7 +1651,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devops-fest-kyiv",
             "title": "DevOps Fest",
             "location": "Kyiv",
@@ -1813,7 +1662,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "uknof-manchester",
             "title": "UKNOF 43",
             "location": "Manchester",
@@ -1825,7 +1673,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devone-linz",
             "title": "DevOne",
             "location": "Linz",
@@ -1837,7 +1684,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dockercon-san-francisco",
             "title": "DockerCon",
             "location": "San Francisco",
@@ -1849,7 +1695,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "werockit-huntsville-al",
             "title": "WeRockIT",
             "location": "Huntsville, AL",
@@ -1861,7 +1706,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "salt-lake-city-devops-days-salt-lake-city-ut",
             "title": "Salt Lake City DevOps Days",
             "location": "Salt Lake City, UT",
@@ -1873,7 +1717,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "open-source-data-center-berlin",
             "title": "Open Source Data Center",
             "location": "Berlin",
@@ -1885,7 +1728,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "jax-devops-london",
             "title": "JAX DevOps",
             "location": "London",
@@ -1897,7 +1739,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "open-source-camp-ansible-berlin",
             "title": "Open Source Camp - Ansible",
             "location": "Berlin",
@@ -1909,7 +1750,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "scaleconf-medell-n",
             "title": "ScaleConf",
             "location": "Medellín",
@@ -1921,7 +1761,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "scaleconf-colombia-medellin",
             "title": "ScaleConf Colombia",
             "location": "Medellin",
@@ -1933,7 +1772,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "kubecon-europe-barcelona",
             "title": "Kubecon Europe",
             "location": "Barcelona",
@@ -1945,7 +1783,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devopsdays-toronto",
             "title": "DevOpsDays",
             "location": "Toronto",
@@ -1957,7 +1794,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "texas-linux-fest-dallas-tx",
             "title": "Texas Linux Fest",
             "location": "Dallas, TX",
@@ -1969,7 +1805,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "paris-containers-day",
             "title": "Paris Containers Day",
             "location": "Paris",
@@ -1981,7 +1816,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devops-bcn-barcelona",
             "title": "Devops BCN",
             "location": "Barcelona",
@@ -1993,7 +1827,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devopscon-spring-berlin",
             "title": "DevOpsCon Spring",
             "location": "Berlin",
@@ -2005,7 +1838,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "srecon-asia-australia-singapore",
             "title": "SREcon19 Asia/Australia",
             "location": "Singapore",
@@ -2017,7 +1849,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "global-devops-bootcamp-hilversum",
             "title": "Global DevOps BootCamp",
             "location": "Hilversum",
@@ -2029,7 +1860,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "containerdays-hamburg-",
             "title": "ContainerDays ",
             "location": "Hamburg ",
@@ -2041,7 +1871,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devopsdays-amsterdam",
             "title": "DevopsDays Amsterdam",
             "location": "Amsterdam",
@@ -2053,7 +1882,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "n-rnberg-digital-festival",
             "title": "Nürnberg Digital Festival",
             "location": "Nürnberg",
@@ -2065,7 +1893,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dash-new-york",
             "title": "Dash",
             "location": "New York",
@@ -2077,7 +1904,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "cloudnative-london",
             "title": "CloudNative London",
             "location": "London",
@@ -2089,7 +1915,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devopsdays-london",
             "title": "DevOpsDays London",
             "location": "London",
@@ -2101,7 +1926,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "event-driven-microservices-conference-amsterdam",
             "title": "Event-driven Microservices Conference 2019",
             "location": "Amsterdam",
@@ -2113,7 +1937,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "srecon-europe-middle-east-africa-dublin",
             "title": "SREcon19 Europe/Middle East/Africa",
             "location": "Dublin",
@@ -2125,7 +1948,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devops-d-day-marseille",
             "title": "DevOps D-Day",
             "location": "Marseille",
@@ -2137,7 +1959,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "goto-copenhagen-",
             "title": "GOTO",
             "location": "Copenhagen ",
@@ -2149,7 +1970,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dotnetdays-iasi",
             "title": "dotnetdays",
             "location": "Iasi",
@@ -2161,7 +1981,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "f-exchange-london",
             "title": "F# eXchange",
             "location": "London",
@@ -2173,7 +1992,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dotnetsouth-tech-atlanta",
             "title": "DotNetSouth.Tech",
             "location": "Atlanta",
@@ -2185,7 +2003,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devintersection-orlando-fl",
             "title": "DEVintersection",
             "location": "Orlando, FL",
@@ -2197,7 +2014,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "-con-west-santa-cruz-ca",
             "title": "!!Con West 2019",
             "location": "Santa Cruz, CA",
@@ -2209,7 +2025,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "sqlbits-manchester",
             "title": "SQLBits",
             "location": "Manchester",
@@ -2221,7 +2036,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "visual-studio-live-las-vegas",
             "title": "Visual Studio Live!",
             "location": "Las Vegas",
@@ -2233,7 +2047,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "tabgeeks-long-beach-ca",
             "title": "tabGeeks",
             "location": "Long Beach, CA",
@@ -2245,7 +2058,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "scaleconf-cape-town",
             "title": "ScaleConf",
             "location": "Cape Town",
@@ -2257,7 +2069,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "-bctechsummit-vancouver",
             "title": "#BCTECHSummit",
             "location": "Vancouver",
@@ -2269,7 +2080,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "software-architecture-summit-munich",
             "title": "Software Architecture Summit",
             "location": "Munich",
@@ -2281,7 +2091,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "confoo-montreal",
             "title": "Confoo",
             "location": "Montreal",
@@ -2293,7 +2102,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "future-tech-utrecht",
             "title": "Future Tech",
             "location": "Utrecht",
@@ -2305,7 +2113,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "t-chfest-madrid",
             "title": "T3chFest",
             "location": "Madrid",
@@ -2317,7 +2124,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "deveast-ipswich",
             "title": "DevEast",
             "location": "Ipswich",
@@ -2329,7 +2135,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "breizhcamp-rennes",
             "title": "Breizhcamp",
             "location": "Rennes",
@@ -2341,7 +2146,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "pixels-camp-lisbon",
             "title": "Pixels Camp",
             "location": "Lisbon",
@@ -2353,7 +2157,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "momentum-cincinnati-oh",
             "title": "Momentum",
             "location": "Cincinnati, OH",
@@ -2365,7 +2168,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "codemotion-rome",
             "title": "Codemotion Rome",
             "location": "Rome",
@@ -2377,7 +2179,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "women-techmakers-montreal",
             "title": "Women Techmakers",
             "location": "Montreal",
@@ -2389,7 +2190,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devconf-cape-town",
             "title": "DevConf",
             "location": "Cape Town",
@@ -2401,7 +2201,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "iot-forum-africa-johannesburg",
             "title": "IoT Forum Africa",
             "location": "Johannesburg",
@@ -2413,7 +2212,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "women-in-tech-summit-midatlantic-washington-d-c-",
             "title": "Women in Tech Summit (MidAtlantic)",
             "location": "Washington, D.C.",
@@ -2425,7 +2223,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devconf-johannesburg",
             "title": "DevConf",
             "location": "Johannesburg",
@@ -2437,7 +2234,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "tf-blockchain-seattle",
             "title": "TF Blockchain",
             "location": "Seattle",
@@ -2449,7 +2245,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "-programming-genova",
             "title": "‹Programming›",
             "location": "Genova",
@@ -2461,7 +2256,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "codemotion-amsterdam",
             "title": "Codemotion Amsterdam",
             "location": "Amsterdam",
@@ -2473,7 +2267,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "mainxchange-wuerzburg",
             "title": "MainXchange",
             "location": "Wuerzburg",
@@ -2485,7 +2278,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "cukenfest-london",
             "title": "CukenFest London",
             "location": "London",
@@ -2497,7 +2289,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "code-talks-commerce-edition-berlin",
             "title": "Code Talks - Commerce Edition",
             "location": "Berlin",
@@ -2509,7 +2300,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "satrday-johannesburg",
             "title": "satRday",
             "location": "Johannesburg",
@@ -2521,7 +2311,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "serverless-architecture-den-haag",
             "title": "Serverless Architecture",
             "location": "Den Haag",
@@ -2533,7 +2322,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "-developers-warsaw",
             "title": "4Developers",
             "location": "Warsaw",
@@ -2545,7 +2333,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "web-qu-bec-quebec",
             "title": "Web à Québec",
             "location": "Quebec",
@@ -2557,7 +2344,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "openwest-sandy-ut",
             "title": "OpenWest",
             "location": "Sandy, UT",
@@ -2569,7 +2355,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "openwest-salt-lake-city",
             "title": "OpenWest",
             "location": "Salt Lake City",
@@ -2581,7 +2366,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dublin-tech-summit",
             "title": "Dublin Tech Summit",
             "location": "Dublin",
@@ -2593,7 +2377,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "frontcon-riga",
             "title": "FrontCon",
             "location": "Riga",
@@ -2605,7 +2388,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "developers-conference-mauritius-moka",
             "title": "Developers Conference Mauritius",
             "location": "Moka",
@@ -2617,7 +2399,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "business-of-software-europe-cambridge",
             "title": "Business of Software Europe",
             "location": "Cambridge",
@@ -2629,7 +2410,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "venture-day-minsk",
             "title": "Venture Day Minsk",
             "location": "Minsk",
@@ -2641,7 +2421,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "codestock-knoxville-tn",
             "title": "CodeStock",
             "location": "Knoxville, TN",
@@ -2653,7 +2432,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "women-in-tech-summit-northeast-philadelphia-pa",
             "title": "Women in Tech Summit (Northeast)",
             "location": "Philadelphia, PA",
@@ -2665,7 +2443,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "no-fluff-just-stuff-nfjs-northern-virginia-software-symposium-reston-va",
             "title": "No Fluff Just Stuff (NFJS) - Northern Virginia Software Symposium",
             "location": "Reston, VA",
@@ -2677,7 +2454,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "connect-san-francisco",
             "title": "CONNECT",
             "location": "San Francisco",
@@ -2689,7 +2465,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "gdg-devfest-pisa",
             "title": "GDG DevFest Pisa",
             "location": "Pisa",
@@ -2701,7 +2476,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devexperience-iasi",
             "title": "DevExperience",
             "location": "Iasi",
@@ -2713,7 +2487,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "great-international-developer-summit-bangalore",
             "title": "Great International Developer Summit",
             "location": "Bangalore",
@@ -2725,7 +2498,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "visual-studio-live-new-orleans",
             "title": "Visual Studio Live!",
             "location": "New Orleans",
@@ -2737,7 +2509,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devnet-create-mountain-view-ca",
             "title": "DevNet Create",
             "location": "Mountain View, CA",
@@ -2749,7 +2520,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "apidays-io-singapore",
             "title": "APIdays.io Singapore",
             "location": "Singapore",
@@ -2761,7 +2531,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "front-end-design-conference-st-petersburg-fl",
             "title": "Front-End Design Conference",
             "location": "St Petersburg, FL",
@@ -2773,7 +2542,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "the-lead-developer-new-york",
             "title": "The Lead Developer New York",
             "location": "New York",
@@ -2785,7 +2553,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "beyondtech-london",
             "title": "BeyondTech",
             "location": "London",
@@ -2797,7 +2564,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "wonder-women-tech-washington-dc",
             "title": "Wonder Women Tech",
             "location": "Washington, DC",
@@ -2809,7 +2575,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "women-in-tech-summit-midwest-chicago-il",
             "title": "Women in Tech Summit (Midwest)",
             "location": "Chicago, IL",
@@ -2821,7 +2586,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "build-stuff-spain-malaga",
             "title": "Build Stuff Spain",
             "location": "Malaga",
@@ -2833,7 +2597,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "craft-budapest",
             "title": "CRAFT",
             "location": "Budapest",
@@ -2845,7 +2608,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "red-hat-summit-boston",
             "title": "Red Hat Summit",
             "location": "Boston",
@@ -2857,7 +2619,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devoxx-london",
             "title": "Devoxx",
             "location": "London",
@@ -2869,7 +2630,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "techspo-new-york",
             "title": "TECHSPO New York",
             "location": "New York",
@@ -2881,7 +2641,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "beyond-tellerrand-d-sseldorf",
             "title": "beyond tellerrand",
             "location": "Düsseldorf",
@@ -2893,7 +2652,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "the-web-conference-san-francisco-ca",
             "title": "The Web Conference",
             "location": "San Francisco, CA",
@@ -2905,7 +2663,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "iot-world-santa-clara",
             "title": "IoT World",
             "location": "Santa Clara",
@@ -2917,7 +2674,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "austin-api-summit",
             "title": "Austin API Summit",
             "location": "Austin",
@@ -2929,7 +2685,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "latitude-tallinn",
             "title": "Latitude59",
             "location": "Tallinn",
@@ -2941,7 +2696,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ddd-netherlands-utrecht",
             "title": "DDD Netherlands",
             "location": "Utrecht",
@@ -2953,7 +2707,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "interop-las-vegas",
             "title": "Interop",
             "location": "Las Vegas",
@@ -2965,7 +2718,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "gluecon-denver",
             "title": "Gluecon",
             "location": "Denver",
@@ -2977,7 +2729,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "mixit-lyon",
             "title": "MiXiT",
             "location": "Lyon",
@@ -2989,7 +2740,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devsum-stockholm",
             "title": "DevSum",
             "location": "Stockholm",
@@ -3001,7 +2751,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "techspo-silicon-valley-san-francisco",
             "title": "TECHSPO Silicon Valley",
             "location": "San Francisco",
@@ -3013,7 +2762,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "shift-dev-split",
             "title": "Shift Dev",
             "location": "Split",
@@ -3025,7 +2773,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "refactr-tech-atlanta",
             "title": "REFACTR.TECH",
             "location": "Atlanta",
@@ -3037,7 +2784,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "wearedevelopers-berlin",
             "title": "WeAreDevelopers",
             "location": "Berlin",
@@ -3049,7 +2795,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "revolutionconf-virginia-beach-va",
             "title": "RevolutionConf",
             "location": "Virginia Beach, VA",
@@ -3061,7 +2806,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "wonder-women-tech-london",
             "title": "Wonder Women Tech",
             "location": "London",
@@ -3073,7 +2817,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "cloud-conference-johannesburg",
             "title": "Cloud Conference",
             "location": "Johannesburg",
@@ -3085,7 +2828,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "women-in-technology-summit-san-jose-ca",
             "title": "Women in Technology Summit",
             "location": "San Jose, CA",
@@ -3097,7 +2839,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "visual-studio-live-boston",
             "title": "Visual Studio Live!",
             "location": "Boston",
@@ -3109,7 +2850,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devit-thessaloniki",
             "title": "Devit",
             "location": "Thessaloniki",
@@ -3121,7 +2861,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "the-lead-developer-london",
             "title": "The Lead Developer London",
             "location": "London",
@@ -3133,7 +2872,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ndc-oslo",
             "title": "NDC Oslo",
             "location": "Oslo",
@@ -3145,7 +2883,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ml-conference-m-nchen",
             "title": "ML Conference",
             "location": "München",
@@ -3157,7 +2894,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "internet-of-things-conference-munich",
             "title": "Internet of Things Conference",
             "location": "Munich",
@@ -3169,7 +2905,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dwx-developer-week-n-rnberg",
             "title": "DWX - Developer Week 2019",
             "location": "Nürnberg",
@@ -3181,7 +2916,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devoxx-krakow",
             "title": "Devoxx",
             "location": "Krakow",
@@ -3193,7 +2927,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "s-bpm-one-seville",
             "title": "S-BPM ONE",
             "location": "Seville",
@@ -3205,7 +2938,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "sunny-tech-montpellier",
             "title": "Sunny Tech",
             "location": "Montpellier",
@@ -3217,7 +2949,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "agile-on-the-beach-falmouth-cornwall",
             "title": "Agile on the Beach",
             "location": "Falmouth, Cornwall",
@@ -3229,7 +2960,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "deconstruct-seattle",
             "title": "Deconstruct",
             "location": "Seattle",
@@ -3241,7 +2971,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "-berconf-denver-co",
             "title": "ÜberConf",
             "location": "Denver, CO",
@@ -3253,7 +2982,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "kansas-city-dev-con-kansas-city-mo",
             "title": "Kansas City Dev Con",
             "location": " Kansas City, MO",
@@ -3265,7 +2993,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "that-conference-wisconsin-dells",
             "title": "That Conference",
             "location": "Wisconsin Dells",
@@ -3277,7 +3004,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "visual-studio-live-redmond",
             "title": "Visual Studio Live!",
             "location": "Redmond",
@@ -3289,7 +3015,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "music-city-tech-nashville-tn",
             "title": "Music City Tech",
             "location": "Nashville, TN",
@@ -3301,7 +3026,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "strange-loop-st-louis",
             "title": "Strange Loop",
             "location": "St. Louis",
@@ -3313,7 +3037,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "business-of-software-usa-boston-ma",
             "title": "Business of Software USA",
             "location": "Boston, MA",
@@ -3325,7 +3048,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "web-weekend-kathmandu",
             "title": "Web Weekend Kathmandu",
             "location": "Kathmandu",
@@ -3337,7 +3059,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "visual-studio-live-san-diego",
             "title": "Visual Studio Live!",
             "location": "San Diego",
@@ -3349,7 +3070,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "grace-hopper-celebration-orlando",
             "title": "Grace Hopper Celebration",
             "location": "Orlando",
@@ -3361,7 +3081,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "women-in-tech-summit-west-denver-co",
             "title": "Women in Tech Summit (West)",
             "location": "Denver, CO",
@@ -3373,7 +3092,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "visual-studio-live-chicago",
             "title": "Visual Studio Live!",
             "location": "Chicago",
@@ -3385,7 +3103,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "hackconf-sofia",
             "title": "HackConf",
             "location": "Sofia",
@@ -3397,7 +3114,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "pacific-nw-software-quality-conference-portland",
             "title": "Pacific NW Software Quality Conference",
             "location": "Portland",
@@ -3409,7 +3125,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "goto-berlin",
             "title": "GOTO",
             "location": "Berlin",
@@ -3421,7 +3136,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "international-annual-conference-of-the-american-society-for-engineering-management-philadelphia-pa",
             "title": "International Annual Conference of the American Society for Engineering Management",
             "location": "Philadelphia, PA",
@@ -3433,7 +3147,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devoxx-kyiv",
             "title": "Devoxx",
             "location": "Kyiv",
@@ -3445,7 +3158,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "beyond-tellerrand-berlin",
             "title": "beyond tellerrand",
             "location": "Berlin",
@@ -3457,7 +3169,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devoxx-antwerp",
             "title": "Devoxx",
             "location": "Antwerp",
@@ -3469,7 +3180,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "microsoft-ignite-orlando-fl",
             "title": "Microsoft Ignite",
             "location": "Orlando, FL",
@@ -3481,7 +3191,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "o-reilly-software-architecture-conference-berlin",
             "title": "O’Reilly Software Architecture Conference",
             "location": "Berlin",
@@ -3493,7 +3202,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "wonder-women-tech-long-beach-ca",
             "title": "Wonder Women Tech",
             "location": "Long Beach, CA",
@@ -3505,7 +3213,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "-redev-malm-",
             "title": "Øredev",
             "location": "Malmö",
@@ -3517,7 +3224,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "women-in-tech-summit-southeast-raleigh-durham-nc",
             "title": "Women in Tech Summit (Southeast)",
             "location": "Raleigh-Durham, NC",
@@ -3529,7 +3235,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "wordcamp-seattle",
             "title": "WordCamp, Seattle",
             "location": "Seattle",
@@ -3541,7 +3246,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "eurostar-prague",
             "title": "EuroSTAR",
             "location": "Prague",
@@ -3553,7 +3257,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "build-stuff-vilnius",
             "title": "Build Stuff",
             "location": "Vilnius",
@@ -3565,7 +3268,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "visual-studio-live-orlando-fl",
             "title": "Visual Studio Live!",
             "location": "Orlando, FL",
@@ -3577,7 +3279,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devternity-riga",
             "title": "DevTernity",
             "location": "Riga",
@@ -3589,7 +3290,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dotgo-paris",
             "title": "dotGo",
             "location": "Paris",
@@ -3601,7 +3301,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "codefest-novosibirsk",
             "title": "Codefest",
             "location": "Novosibirsk",
@@ -3613,7 +3312,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "gothamgo-new-york-city",
             "title": "GothamGo",
             "location": "New York City",
@@ -3625,7 +3323,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "pycon-apac-makati",
             "title": "PyCon APAC",
             "location": "Makati",
@@ -3637,7 +3334,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ioscon-london",
             "title": "iOSCon",
             "location": "London",
@@ -3649,7 +3345,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ios-conf-budapest",
             "title": "iOS Conf Budapest",
             "location": "Budapest",
@@ -3661,7 +3356,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "swift-by-midwest-chicago-il",
             "title": "Swift by Midwest",
             "location": "Chicago, IL",
@@ -3673,7 +3367,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "nsnorth-montr-al",
             "title": "NSNorth",
             "location": "Montréal",
@@ -3685,7 +3378,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "uikonf-berlin",
             "title": "UIKonf",
             "location": "Berlin",
@@ -3697,7 +3389,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "swift-island-texel",
             "title": "Swift Island",
             "location": "Texel",
@@ -3709,7 +3400,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "-idev-denver-co",
             "title": "360|iDev",
             "location": "Denver CO",
@@ -3721,7 +3411,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "frenchkit-paris",
             "title": "FrenchKit",
             "location": "Paris",
@@ -3733,7 +3422,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "mobile-era-oslo",
             "title": "Mobile Era",
             "location": "Oslo",
@@ -3745,7 +3433,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "heise-macdev-karlsruhe",
             "title": "heise MacDev",
             "location": "Karlsruhe",
@@ -3757,7 +3444,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devnexus-atlanta-ga",
             "title": "DevNexus",
             "location": "Atlanta, GA",
@@ -3769,7 +3455,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "java-day-istanbul",
             "title": "Java Day Istanbul",
             "location": "Istanbul",
@@ -3781,7 +3466,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "java-eastern-europe-conference-jeeconf-kyiv",
             "title": "Java Eastern Europe Conference (JEEConf)",
             "location": "Kyiv",
@@ -3793,7 +3477,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "spring-i-o-barcelona",
             "title": "Spring I/O",
             "location": "Barcelona",
@@ -3805,7 +3488,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "gr-conf-eu-copenhagen",
             "title": "GR8Conf EU",
             "location": "Copenhagen",
@@ -3817,7 +3499,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "voxxed-days-singapore",
             "title": "Voxxed Days Singapore",
             "location": "Singapore",
@@ -3829,7 +3510,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "jnation-pt-coimbra",
             "title": "JNation.pt",
             "location": "Coimbra",
@@ -3841,7 +3521,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "java-cloud-johannesburg",
             "title": "Java Cloud",
             "location": "Johannesburg",
@@ -3853,7 +3532,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "geekout-tallinn",
             "title": "GeekOut",
             "location": "Tallinn",
@@ -3865,7 +3543,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "agent-conf-dornbirn-lech",
             "title": "Agent Conf",
             "location": "Dornbirn & Lech",
@@ -3877,7 +3554,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ng-india-gurgaon",
             "title": "ng-India",
             "location": "Gurgaon",
@@ -3889,7 +3565,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "reactfoo-bengaluru",
             "title": "ReactFoo",
             "location": "Bengaluru",
@@ -3901,7 +3576,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "js-kongress-munich",
             "title": "JS Kongress",
             "location": "Munich",
@@ -3913,7 +3587,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "emberconf-portland-or",
             "title": "EmberConf",
             "location": "Portland, OR",
@@ -3925,7 +3598,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "upfront-manchester",
             "title": "UpFront",
             "location": "Manchester",
@@ -3937,7 +3609,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "vueconf-us-tampa-fl",
             "title": "VueConf US",
             "location": "Tampa, FL",
@@ -3949,7 +3620,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "typeof-conference-porto",
             "title": "Typeof Conference",
             "location": "Porto",
@@ -3961,7 +3631,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "reactathon-san-francisco-ca",
             "title": "Reactathon",
             "location": "San Francisco, CA",
@@ -3973,7 +3642,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "frontend-fest-chicago-il",
             "title": "FrontEnd Fest",
             "location": "Chicago, IL",
@@ -3985,7 +3653,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "-perfmatters-redwood-city-ca",
             "title": "#PerfMatters",
             "location": "Redwood City, CA",
@@ -3997,7 +3664,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "frontend-ne-newcastle",
             "title": "Frontend NE",
             "location": "Newcastle",
@@ -4009,7 +3675,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "yglf-code-camp-israel-nasholim",
             "title": "YGLF Code Camp Israel",
             "location": "Nasholim",
@@ -4021,7 +3686,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "app-js-conf-krakow",
             "title": "App.js Conf",
             "location": "Krakow",
@@ -4033,7 +3697,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "js-fest-kyiv",
             "title": "JS Fest",
             "location": "Kyiv",
@@ -4045,7 +3708,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "forwardjs-ottawa",
             "title": "ForwardJS Ottawa",
             "location": "Ottawa",
@@ -4057,7 +3719,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "sencha-community-days-karlsruhe",
             "title": "Sencha Community Days",
             "location": "Karlsruhe",
@@ -4069,7 +3730,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "jsheroes-cluj-napoca",
             "title": "JSHeroes",
             "location": "Cluj-Napoca",
@@ -4081,7 +3741,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "reasonconf-vienna",
             "title": "ReasonConf",
             "location": "Vienna",
@@ -4093,7 +3752,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "nativescript-developer-day-amsterdam",
             "title": "NativeScript Developer Day",
             "location": "Amsterdam",
@@ -4105,7 +3763,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "react-amsterdam",
             "title": "React Amsterdam",
             "location": "Amsterdam",
@@ -4117,7 +3774,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "react-finland-helsinki",
             "title": "React Finland",
             "location": "Helsinki",
@@ -4129,7 +3785,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "elm-in-the-spring-chicago",
             "title": "Elm in the Spring",
             "location": "Chicago",
@@ -4141,7 +3796,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "frontconf-munich-frontend-conference",
             "title": "FrontConf - Munich Frontend Conference",
             "location": "Munich",
@@ -4153,7 +3807,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ng-conf-salt-lake-city-ut",
             "title": "ng-conf",
             "location": "Salt Lake City, UT",
@@ -4165,7 +3818,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "uphill-conf-bern",
             "title": "Uphill Conf",
             "location": "Bern",
@@ -4177,7 +3829,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "cityjsconf-london",
             "title": "CityJSConf",
             "location": "London",
@@ -4189,7 +3840,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "reactjs-girls-london",
             "title": "ReactJS Girls",
             "location": "London",
@@ -4201,7 +3851,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "jsday-verona",
             "title": "JSDay",
             "location": "Verona",
@@ -4213,7 +3862,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "nationjs-frontrunners-washington-dc",
             "title": "NationJS Frontrunners",
             "location": "Washington, DC",
@@ -4225,7 +3873,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "international-javascript-conference-london",
             "title": "International JavaScript Conference",
             "location": "London",
@@ -4237,7 +3884,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "you-gotta-love-frontend-vilnius",
             "title": "You Gotta Love Frontend",
             "location": "Vilnius",
@@ -4249,7 +3895,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "fullstack-nyc-new-york",
             "title": "FullStack NYC",
             "location": "New York",
@@ -4261,7 +3906,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "newcrafts-paris",
             "title": "Newcrafts",
             "location": "Paris",
@@ -4273,7 +3917,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "reacteurope-paris",
             "title": "ReactEurope",
             "location": "Paris",
@@ -4285,7 +3928,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "holyjs-piter-saint-petersburg",
             "title": "HolyJS Piter",
             "location": "Saint Petersburg",
@@ -4297,7 +3939,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ngvikings-copenhagen",
             "title": "ngVikings",
             "location": "Copenhagen",
@@ -4309,7 +3950,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "jsconf-eu-berlin",
             "title": "JSConf EU",
             "location": "Berlin",
@@ -4321,7 +3961,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "jsnation-amsterdam",
             "title": "JSNation",
             "location": "Amsterdam",
@@ -4333,7 +3972,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "pixel-pioneers-belfast",
             "title": "Pixel Pioneers Belfast",
             "location": "Belfast",
@@ -4345,7 +3983,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "angularmix-anglebrackets-devintersection-orlando-fl",
             "title": "AngularMIX & AngleBrackets & DEVintersection",
             "location": "Orlando, FL",
@@ -4357,7 +3994,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "reactnext-tel-aviv",
             "title": "ReactNext",
             "location": "Tel Aviv",
@@ -4369,7 +4005,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "react-day-norway-larvik",
             "title": "React Day Norway",
             "location": "Larvik",
@@ -4381,7 +4016,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "jsconf-asia-singapore",
             "title": "JSConf.Asia",
             "location": "Singapore",
@@ -4393,7 +4027,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "berlin-buzzwords",
             "title": "Berlin Buzzwords",
             "location": "Berlin",
@@ -4405,7 +4038,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "nodeconf-colombia-medell-n",
             "title": "NodeConf Colombia",
             "location": "Medellín",
@@ -4417,7 +4049,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "enterjs-darmstadt",
             "title": "enterJS",
             "location": "Darmstadt",
@@ -4429,7 +4060,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ngspain-madrid",
             "title": "ngSpain",
             "location": "Madrid",
@@ -4441,7 +4071,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ng-my-kuala-lumpur",
             "title": "NG-MY",
             "location": "Kuala Lumpur",
@@ -4453,7 +4082,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "fullstack-london",
             "title": "FullStack London",
             "location": "London",
@@ -4465,7 +4093,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "chain-react-portland-or",
             "title": "Chain React",
             "location": "Portland, OR",
@@ -4477,7 +4104,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "jscamp-barcelona",
             "title": "JSCamp Barcelona",
             "location": "Barcelona",
@@ -4489,7 +4115,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "odessajs",
             "title": "OdessaJS",
             "location": "Odessa",
@@ -4501,7 +4126,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "javascript-and-friends-conference-columbus",
             "title": "JavaScript and Friends Conference",
             "location": "Columbus",
@@ -4513,7 +4137,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "jsconf-us-carlsbad-ca",
             "title": "JSConf US",
             "location": "Carlsbad, CA",
@@ -4525,7 +4148,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "pycascades-seattle-wa",
             "title": "PyCascades",
             "location": "Seattle, WA",
@@ -4537,7 +4159,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "jsconf-budapest",
             "title": "JSConf Budapest",
             "location": "Budapest",
@@ -4549,7 +4170,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "nordic-js-stockholm",
             "title": "Nordic.js",
             "location": "Stockholm",
@@ -4561,7 +4181,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "smashing-conference-new-york",
             "title": "Smashing Conference",
             "location": "New York",
@@ -4573,7 +4192,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "big-data-ldn-london",
             "title": "Big Data LDN",
             "location": "London",
@@ -4585,7 +4203,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dotjs-paris",
             "title": "dotJS",
             "location": "Paris",
@@ -4597,7 +4214,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "we-local-tampa-tampa-fl",
             "title": "WE Local Tampa",
             "location": "Tampa, FL",
@@ -4609,7 +4225,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "we-local-st-louis-st-louis-mo",
             "title": "WE Local St. Louis",
             "location": "St. Louis, MO",
@@ -4621,7 +4236,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "we-local-denver-denver-co",
             "title": "WE Local Denver",
             "location": "Denver, CO",
@@ -4633,7 +4247,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "we-local-bellevue-bellevue-wa",
             "title": "WE Local Bellevue",
             "location": "Bellevue, WA",
@@ -4645,7 +4258,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "foss-north-gothenburg",
             "title": "foss-north",
             "location": "Gothenburg",
@@ -4657,7 +4269,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "we-local-india-bengaluru",
             "title": "WE Local India",
             "location": "Bengaluru",
@@ -4669,7 +4280,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "women-transforming-technology-conference-wt-palo-alto-ca",
             "title": "Women Transforming Technology Conference (WT²)",
             "location": "Palo Alto, CA",
@@ -4681,7 +4291,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "we-local-europe-berlin",
             "title": "WE Local Europe",
             "location": "Berlin",
@@ -4693,7 +4302,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ieee-women-in-engineering-international-leadership-conference-austin-tx",
             "title": "IEEE Women In Engineering International Leadership Conference",
             "location": "Austin, TX",
@@ -4705,7 +4313,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "best-of-web-paris",
             "title": "Best of Web",
             "location": "Paris",
@@ -4717,7 +4324,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "techspo-los-angeles",
             "title": "TECHSPO Los Angeles",
             "location": "Los Angeles",
@@ -4729,7 +4335,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "reversim-summit-tel-aviv",
             "title": "Reversim Summit",
             "location": "Tel Aviv",
@@ -4741,7 +4346,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "running-remote-conference-bali",
             "title": "Running Remote Conference",
             "location": "Bali",
@@ -4753,7 +4357,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "entrepreneurs-cruise-cape-canaveral",
             "title": "Entrepreneurs Cruise",
             "location": "Cape Canaveral",
@@ -4765,7 +4368,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "african-women-in-media-conference-festival-nairobi",
             "title": "African Women in Media  Conference & Festival",
             "location": "Nairobi",
@@ -4777,7 +4379,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "codercruise-port-canaveral-fl",
             "title": "CoderCruise",
             "location": "Port Canaveral, FL",
@@ -4789,7 +4390,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "the-conference-malm-",
             "title": "The Conference",
             "location": "Malmö",
@@ -4801,7 +4401,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devfest-toulouse",
             "title": "DevFest Toulouse",
             "location": "Toulouse",
@@ -4813,7 +4412,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "we-anaheim-ca",
             "title": "WE19",
             "location": "Anaheim, CA",
@@ -4825,7 +4423,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "goto-copenhagen",
             "title": "GOTO",
             "location": "Copenhagen",
@@ -4837,7 +4434,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "drupalcamp-florida-orlando",
             "title": "Drupalcamp Florida",
             "location": "Orlando",
@@ -4849,7 +4445,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "php-uk-conference-london",
             "title": "PHP UK Conference",
             "location": "London",
@@ -4861,7 +4456,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "jestphp-mesa",
             "title": "JestPHP",
             "location": "Mesa",
@@ -4873,7 +4467,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "midwest-php-bloomington-mn",
             "title": "Midwest PHP",
             "location": "Bloomington, MN",
@@ -4885,7 +4478,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "php-yorkshire",
             "title": "PHP Yorkshire",
             "location": "York",
@@ -4897,7 +4489,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "longhorn-php-austin-tx",
             "title": "Longhorn PHP",
             "location": "Austin, TX",
@@ -4909,7 +4500,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "phpday-verona",
             "title": "phpDay",
             "location": "Verona",
@@ -4921,7 +4511,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "php-tek-atlanta",
             "title": "php[tek]",
             "location": "Atlanta",
@@ -4933,7 +4522,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "php-serbia-conference-belgrade",
             "title": "PHP Serbia Conference",
             "location": "Belgrade",
@@ -4945,7 +4533,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "meet-magento-de-leipzig",
             "title": "Meet Magento DE",
             "location": "Leipzig",
@@ -4957,7 +4544,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "international-php-conference-berlin",
             "title": "International PHP Conference",
             "location": "Berlin",
@@ -4969,7 +4555,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dutch-php-conference-amsterdam",
             "title": "Dutch PHP Conference",
             "location": "Amsterdam",
@@ -4981,7 +4566,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "darkmira-tour-php-fortaleza",
             "title": "Darkmira Tour PHP",
             "location": "Fortaleza",
@@ -4993,7 +4577,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "scotlandphp-edinburgh",
             "title": "ScotlandPHP",
             "location": "Edinburgh",
@@ -5005,7 +4588,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "pyconweb-munich",
             "title": "PyConWeb",
             "location": "Munich",
@@ -5017,7 +4599,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "pycon-cz-ostrava",
             "title": "PyCon CZ",
             "location": "Ostrava",
@@ -5029,7 +4610,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ruby-on-ice-tegernsee",
             "title": "Ruby On Ice",
             "location": "Tegernsee",
@@ -5041,7 +4621,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "wroc-love-rb-wroc-aw",
             "title": "wroc_love.rb",
             "location": "Wrocław",
@@ -5053,7 +4632,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ruby-hack-sandy-ut",
             "title": "Ruby Hack",
             "location": "Sandy, UT",
@@ -5065,7 +4643,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "rails-camp-south-bandera-tx",
             "title": "Rails Camp South",
             "location": "Bandera, TX",
@@ -5077,7 +4654,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "rubyconfby-minsk",
             "title": "RubyConfBY",
             "location": "Minsk",
@@ -5089,7 +4665,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ruby-kaigi-fukuoka",
             "title": "Ruby Kaigi",
             "location": "Fukuoka",
@@ -5101,7 +4676,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "railsconf-minneapolis-mn",
             "title": "RailsConf",
             "location": "Minneapolis, MN",
@@ -5113,7 +4687,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ruby-unconf-hamburg",
             "title": "Ruby Unconf Hamburg",
             "location": "Hamburg",
@@ -5125,7 +4698,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "saint-p-rubyconf-saint-petersburg",
             "title": "Saint P Rubyconf",
             "location": "Saint Petersburg",
@@ -5137,7 +4709,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "euruko-rotterdam",
             "title": "Euruko",
             "location": "Rotterdam",
@@ -5149,7 +4720,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "brighton-ruby",
             "title": "Brighton Ruby",
             "location": "Brighton",
@@ -5161,7 +4731,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "southeast-ruby-nashville-tn",
             "title": "Southeast Ruby",
             "location": "Nashville, TN",
@@ -5173,7 +4742,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "rubyc-kyiv",
             "title": "RubyC",
             "location": "Kyiv",
@@ -5185,7 +4753,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "rubyconf-nashville-tn",
             "title": "RubyConf",
             "location": "Nashville, TN",
@@ -5197,7 +4764,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "rustlab-florence",
             "title": "RustLab",
             "location": "Florence",
@@ -5209,7 +4775,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devseccon-singapore",
             "title": "DevSecCon Singapore",
             "location": "Singapore",
@@ -5221,7 +4786,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "gartner-identity-access-management-summit-london",
             "title": "Gartner Identity & Access Management Summit 2019",
             "location": "London",
@@ -5233,7 +4797,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "qubit-prague",
             "title": "QuBit Prague",
             "location": "Prague",
@@ -5245,7 +4808,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "hitbsecconf-amsterdam",
             "title": "HITBSecConf",
             "location": "Amsterdam",
@@ -5257,7 +4819,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "northsec-montreal",
             "title": "NorthSec",
             "location": "Montreal",
@@ -5269,7 +4830,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ieee-symposium-on-security-and-privacy-san-francisco",
             "title": "IEEE Symposium on Security and Privacy",
             "location": "San Francisco",
@@ -5281,7 +4841,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "itweb-security-summit-cape-town",
             "title": "ITWeb Security Summit",
             "location": "Cape Town",
@@ -5293,7 +4852,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "itweb-security-summit-johannesburg",
             "title": "ITWeb Security Summit",
             "location": "Johannesburg",
@@ -5305,7 +4863,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ruhrsec-bochum",
             "title": "RuhrSec",
             "location": "Bochum",
@@ -5317,7 +4874,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "infosecurity-europe-london",
             "title": "Infosecurity Europe",
             "location": "London",
@@ -5329,7 +4885,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "hack-in-paris",
             "title": "Hack In Paris",
             "location": "Paris",
@@ -5341,7 +4896,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "cyber-security-and-cloud-expo-europe-amsterdam",
             "title": "Cyber Security And Cloud Expo Europe 2019",
             "location": "Amsterdam",
@@ -5353,7 +4907,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "mybroadband-cybersec-conference-johannesburg",
             "title": "MyBroadband CyberSec Conference",
             "location": "Johannesburg",
@@ -5365,7 +4918,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "cyber-security-summit-los-angeles",
             "title": "Cyber Security Summit",
             "location": "Los Angeles",
@@ -5377,7 +4929,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "nanosec-conference-kuala-lumpur",
             "title": "NanoSec Conference",
             "location": "Kuala Lumpur",
@@ -5389,7 +4940,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "it-sa-europas-f-hrende-fachmesse-f-r-it-sicherheit-n-rnberg",
             "title": "it-sa - Europas führende Fachmesse für IT-Sicherheit",
             "location": "Nürnberg",
@@ -5401,7 +4951,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "b-sides-cape-town",
             "title": "B-Sides Cape Town",
             "location": "Cape Town",
@@ -5413,7 +4962,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "devfest-du-bout-du-monde-brest",
             "title": "DevFest du bout du monde",
             "location": "Brest",
@@ -5425,7 +4973,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "techspo-houston",
             "title": "TECHSPO Houston",
             "location": "Houston",
@@ -5437,7 +4984,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "adobe-max-los-angeles-ca",
             "title": "Adobe MAX",
             "location": "Los Angeles, CA",
@@ -5449,7 +4995,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "product-management-festival-zurich",
             "title": "Product Management Festival",
             "location": "Zurich",
@@ -5461,7 +5006,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "an-event-apart-san-francisco-ca",
             "title": "An Event Apart",
             "location": "San Francisco, CA",
@@ -5473,7 +5017,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "midwest-ux-grand-rapids-mi",
             "title": "Midwest UX",
             "location": "Grand Rapids, MI",
@@ -5485,7 +5028,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "smashing-conference-new-york-city",
             "title": "Smashing Conference",
             "location": "New York City",
@@ -5497,7 +5039,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "world-usability-congress-graz-styria",
             "title": "World Usability Congress",
             "location": "Graz, Styria",
@@ -5509,7 +5050,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "amuse-conf-budapest",
             "title": "Amuse Conf",
             "location": "Budapest",
@@ -5521,7 +5061,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "seattle-interactive-conference-seattle-wa",
             "title": "Seattle Interactive Conference",
             "location": "Seattle, WA",
@@ -5533,7 +5072,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "an-event-apart-denver-co",
             "title": "An Event Apart",
             "location": "Denver, CO",
@@ -5545,7 +5083,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "mobilehci-taipei",
             "title": "MobileHCI",
             "location": "Taipei",
@@ -5557,7 +5094,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "canvas-conference-birmingham",
             "title": "Canvas Conference",
             "location": "Birmingham",
@@ -5569,7 +5105,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ixda-interaction-latin-america-medell-n",
             "title": "IxDA - Interaction Latin America",
             "location": "Medellín",
@@ -5581,7 +5116,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "jam-london",
             "title": "JAM London",
             "location": "London",
@@ -5593,7 +5127,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "interact-paphos",
             "title": "Interact",
             "location": "Paphos",
@@ -5605,7 +5138,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "usability-professionals-hamburg",
             "title": "Usability Professionals",
             "location": "Hamburg",
@@ -5617,7 +5149,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "design-matters-copenhagen",
             "title": "Design Matters",
             "location": "Copenhagen",
@@ -5629,7 +5160,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "big-design-dallas-tx",
             "title": "Big Design",
             "location": "Dallas, TX",
@@ -5641,7 +5171,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "euro-ia-riga",
             "title": "Euro IA",
             "location": "Riga",
@@ -5653,7 +5182,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "that-conference-wisconsin-dells-wi",
             "title": "That Conference",
             "location": "Wisconsin Dells, WI",
@@ -5665,7 +5193,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ux-digital-design-week-london",
             "title": "UX & Digital Design Week",
             "location": "London",
@@ -5677,7 +5204,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "an-event-apart-chicagexas-il",
             "title": "An Event Apart",
             "location": "Chicagexas, IL",
@@ -5689,7 +5215,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ux-australia-melbourne",
             "title": "UX Australia",
             "location": "Melbourne",
@@ -5701,7 +5226,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "car-hmi-europe-berlin",
             "title": "Car HMi Europe",
             "location": "Berlin",
@@ -5713,7 +5237,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "uxd-healthcare-amsterdam",
             "title": "UXD Healthcare",
             "location": "Amsterdam",
@@ -5725,7 +5248,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "world-haptics-tokyo",
             "title": "World Haptics",
             "location": "Tokyo",
@@ -5737,7 +5259,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "product-management-festival-singapore",
             "title": "Product Management Festival",
             "location": "Singapore",
@@ -5749,7 +5270,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "hci-international-orlando-fl",
             "title": "HCI International",
             "location": "Orlando, FL",
@@ -5761,7 +5281,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "an-event-apart-washington-dc",
             "title": "An Event Apart",
             "location": "Washington DC",
@@ -5773,7 +5292,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "webinale-berlin",
             "title": "Webinale",
             "location": "Berlin",
@@ -5785,7 +5303,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "enterprise-ux-san-francisco-ca",
             "title": "Enterprise UX",
             "location": "San Francisco, CA",
@@ -5797,7 +5314,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "frontutah-salt-lake-city-ut",
             "title": "FrontUtah",
             "location": "Salt Lake City, UT",
@@ -5809,7 +5325,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "strive-the-ux-research-conference-toronto",
             "title": "Strive - the UX Research Conference",
             "location": "Toronto",
@@ -5821,7 +5336,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "by-design-conference-bratislava",
             "title": "By Design Conference",
             "location": "Bratislava",
@@ -5833,7 +5347,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "umap-user-modeling-personalization-larnaca",
             "title": "UMAP - User Modeling & Personalization",
             "location": "Larnaca",
@@ -5845,7 +5358,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "idc-interaction-design-children-boise-id",
             "title": "IDC - Interaction Design & Children",
             "location": "Boise, ID",
@@ -5857,7 +5369,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "pervasive-displays-symposium-palermo",
             "title": "Pervasive Displays Symposium",
             "location": "Palermo",
@@ -5869,7 +5380,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ux-scotland-edinburgh",
             "title": "UX Scotland",
             "location": "Edinburgh",
@@ -5881,7 +5391,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ux-strat-amsterdam",
             "title": "UX Strat",
             "location": "Amsterdam",
@@ -5893,7 +5402,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "leading-design-new-york-city",
             "title": "Leading Design",
             "location": "New York City",
@@ -5905,7 +5413,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "dis-designing-interactive-systems-san-diego-ca",
             "title": "DIS - Designing Interactive Systems",
             "location": "San Diego, CA",
@@ -5917,7 +5424,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "future-of-branding-week-london",
             "title": "Future of Branding Week",
             "location": "London",
@@ -5929,7 +5435,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "uxpa-scottsdale-az",
             "title": "UXPA",
             "location": "Scottsdale, AZ",
@@ -5941,7 +5446,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "symposium-on-eye-tracking-research-denver-co",
             "title": "Symposium on Eye Tracking Research",
             "location": "Denver, CO",
@@ -5953,7 +5457,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "experience-fighters-madrid",
             "title": "Experience Fighters",
             "location": "Madrid",
@@ -5965,7 +5468,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ux-burlington-burlington-vm",
             "title": "UX Burlington",
             "location": "Burlington, VM",
@@ -5977,7 +5479,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "chi-glasgow",
             "title": "CHI",
             "location": "Glasgow",
@@ -5989,7 +5490,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "how-design-live-texas-il",
             "title": "HOW Design Live",
             "location": "Texas, IL",
@@ -6001,7 +5501,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "awwwards-digital-thinkers-conference-san-francisco-ca",
             "title": "Awwwards - Digital Thinkers Conference",
             "location": "San Francisco, CA",
@@ -6013,7 +5512,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "uxpa-boston-ma",
             "title": "UXPA",
             "location": "Boston, MA",
@@ -6025,7 +5523,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ux-in-the-city-manchester",
             "title": "UX in the City",
             "location": "Manchester",
@@ -6037,7 +5534,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "uxconf-br-porto-alegre",
             "title": "UXConf BR",
             "location": "Porto Alegre",
@@ -6049,7 +5545,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "uxlx-lisbon",
             "title": "UXLx",
             "location": "Lisbon",
@@ -6061,7 +5556,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "mind-the-product-hamburg",
             "title": "Mind The Product",
             "location": "Hamburg",
@@ -6073,7 +5567,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ace-conf-krak-w",
             "title": "ACE Conf",
             "location": "Kraków",
@@ -6085,7 +5578,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "designthinkers-vancouver",
             "title": "DesignThinkers",
             "location": "Vancouver",
@@ -6097,7 +5589,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "webcon-champaign-urbana-il",
             "title": "WebCon",
             "location": "Champaign-Urbana, IL",
@@ -6109,7 +5600,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ux-insight-utrecht",
             "title": "UX Insight",
             "location": "Utrecht",
@@ -6121,7 +5611,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "the-ecommerce-design-summit-london",
             "title": "The Ecommerce Design Summit",
             "location": "London",
@@ -6133,7 +5622,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "creative-south-columbus-ga",
             "title": "Creative South",
             "location": "Columbus, GA",
@@ -6145,7 +5633,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "fintech-design-summit-london",
             "title": "FinTech Design Summit",
             "location": "London",
@@ -6157,7 +5644,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "offf-barcelona",
             "title": "OFFF Barcelona",
             "location": "Barcelona",
@@ -6169,7 +5655,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "profsoux-saint-petersburg",
             "title": "ProfsoUX",
             "location": "Saint Petersburg",
@@ -6181,7 +5666,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "an-event-apart-seattle-wa",
             "title": "An Event Apart",
             "location": "Seattle, WA",
@@ -6193,7 +5677,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "service-design-in-government-edinburgh",
             "title": "Service Design in Government",
             "location": "Edinburgh",
@@ -6205,7 +5688,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "sxsw-festival-austin-tx",
             "title": "SXSW Festival",
             "location": "Austin, TX",
@@ -6217,7 +5699,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ux-camp-brighton",
             "title": "UX Camp Brighton",
             "location": "Brighton",
@@ -6229,7 +5710,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ux-salon-tel-aviv",
             "title": "UX Salon",
             "location": "Tel-Aviv",
@@ -6241,7 +5721,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "conveyux-seattle-wa",
             "title": "ConveyUX",
             "location": "Seattle, WA",
@@ -6253,7 +5732,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "pixel-up-cape-town-western-cape",
             "title": "Pixel Up",
             "location": "Cape Town, Western Cape",
@@ -6265,7 +5743,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "iac-information-architecture-conference-orlando-fl",
             "title": "IAC - Information Architecture Conference",
             "location": "Orlando, FL",
@@ -6277,7 +5754,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "design-research-sydney",
             "title": "Design Research",
             "location": "Sydney",
@@ -6289,7 +5765,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "booster-conference-bergen",
             "title": "Booster Conference",
             "location": "Bergen",
@@ -6301,7 +5776,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "iui-los-angeles-ca",
             "title": "IUI",
             "location": "Los Angeles, CA",
@@ -6313,7 +5787,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "design-thinking-innovation-week-london",
             "title": "Design Thinking & Innovation Week",
             "location": "London",
@@ -6325,7 +5798,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ux-copenhagen-consent-privacy",
             "title": "UX Copenhagen: Consent & Privacy",
             "location": "Copenhagen",
@@ -6337,7 +5809,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "gamesur-san-francisco-ca",
             "title": "GamesUR",
             "location": "San Francisco, CA",
@@ -6349,7 +5820,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "user-experience-hong-kong",
             "title": "User Experience Hong Kong",
             "location": "Hong Kong",
@@ -6361,7 +5831,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "uxistanbul-istanbul",
             "title": "UXistanbul",
             "location": "Istanbul",
@@ -6373,7 +5842,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "konference-uxz-praxe-prague",
             "title": "Konference UXZ praxe",
             "location": "Prague",
@@ -6385,7 +5853,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "the-ux-conference-london",
             "title": "The UX Conference",
             "location": "London",
@@ -6397,7 +5864,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "ux-thailand-bangkok",
             "title": "UX Thailand",
             "location": "Bangkok",
@@ -6409,7 +5875,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "world-ia-day-los-angeles-ca",
             "title": "World IA Day",
             "location": "Los Angeles, CA",
@@ -6421,7 +5886,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "experience-design-week-denver-co",
             "title": "Experience Design Week",
             "location": "Denver, CO",
@@ -6433,7 +5897,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "aiga-design-conference-pasadena-ca",
             "title": "Aiga Design Conference",
             "location": "Pasadena, CA",
@@ -6445,7 +5908,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "nn-g-ux-conference-london",
             "title": "NN/g UX Conference",
             "location": "London",
@@ -6457,7 +5919,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "nn-g-ux-conference-austin-tx",
             "title": "NN/g UX Conference",
             "location": "Austin, TX",
@@ -6469,7 +5930,6 @@
             "status": "ACTIVE"
         },
         {
-            "@search.action": "upload",
             "slug": "nn-g-ux-conference-los-angeles-ca",
             "title": "NN/g UX Conference",
             "location": "Los Angeles, CA",
