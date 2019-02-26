@@ -2,7 +2,7 @@
     "name": "conferences",
     "fields": [
         {
-            "name": "id",
+            "name": "slug",
             "type": "Edm.String",
             "searchable": false,
             "filterable": false,
@@ -12,116 +12,99 @@
             "key": true
         },
         {
-            "name": "podcastTitle",
+            "name": "title",
             "type": "Edm.String",
             "searchable": true,
-            "filterable": false,
+            "filterable": true,
             "retrievable": true,
             "sortable": false,
             "facetable": true,
             "key": false
         },
         {
-            "name": "episodeTitle",
+            "name": "location",
             "type": "Edm.String",
             "searchable": true,
-            "filterable": false,
+            "filterable": true,
             "retrievable": true,
-            "sortable": false,
-            "facetable": false,
-            "key": false,
-            "synonymMaps": [
-                "synonyms"
-            ]
+            "sortable": true,
+            "facetable": true,
+            "key": false
         },
         {
-            "name": "description",
+            "name": "url",
             "type": "Edm.String",
-            "searchable": true,
-            "filterable": false,
+            "searchable": false,
+            "filterable": true,
             "retrievable": true,
             "sortable": false,
-            "facetable": false,
-            "key": false,
-            "synonymMaps": [
-                "synonyms"
-            ]
+            "facetable": true,
+            "key": false
         },
         {
-            "name": "published",
+            "name": "startdate",
             "type": "Edm.DateTimeOffset",
             "searchable": false,
             "filterable": true,
             "retrievable": true,
             "sortable": true,
-            "facetable": false,
+            "facetable": true,
             "key": false
         },
         {
-            "name": "audioUrl",
+            "name": "twitter",
             "type": "Edm.String",
-            "searchable": false,
-            "filterable": false,
+            "searchable": true,
+            "filterable": true,
             "retrievable": true,
-            "sortable": false,
-            "facetable": false,
+            "sortable": true,
+            "facetable": true,
             "key": false
         },
         {
-            "name": "episode",
-            "type": "Edm.String",
+            "name": "cfpdeadline",
+            "type": "Edm.DateTimeOffset",
             "searchable": false,
-            "filterable": false,
+            "filterable": true,
             "retrievable": true,
-            "sortable": false,
-            "facetable": false,
+            "sortable": true,
+            "facetable": true,
             "key": false
         },
         {
-            "name": "season",
+            "name": "link",
             "type": "Edm.String",
-            "searchable": false,
-            "filterable": false,
+            "searchable": true,
+            "filterable": true,
             "retrievable": true,
-            "sortable": false,
-            "facetable": false,
+            "sortable": true,
+            "facetable": true,
             "key": false
         },
         {
-            "name": "episodeType",
+            "name": "status",
             "type": "Edm.String",
-            "searchable": false,
-            "filterable": false,
+            "searchable": true,
+            "filterable": true,
             "retrievable": true,
-            "sortable": false,
-            "facetable": false,
-            "key": false
-        },
-        {
-            "name": "feed",
-            "type": "Edm.String",
-            "searchable": false,
-            "filterable": false,
-            "retrievable": true,
-            "sortable": false,
-            "facetable": false,
+            "sortable": true,
+            "facetable": true,
             "key": false
         }
     ],
     "scoringProfiles": [
         {
-            "name": "recentEpisodesBiasedForEpisodeTitles",
+            "name": "cfpopen",
             "text": {
                 "weights": {
-                    "episodeTitle": 1.5,
-                    "podcastTitle": 0.25
+                    "location": 1.5
                 }
             },
             "functions": [
                 {
                     "type": "freshness",
                     "boost": 10,
-                    "fieldName": "published",
+                    "fieldName": "cfpdeadline",
                     "interpolation": "linear",
                     "freshness": {
                         "boostingDuration": "P356D"
@@ -130,7 +113,6 @@
             ]
         }
     ],
-    "defaultScoringProfile": "recentEpisodesBiasedForEpisodeTitles",
     "corsOptions": {
         "allowedOrigins": [
             "*"
