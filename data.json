@@ -5939,6 +5939,28 @@
             "cfpdeadline": null,
             "cfplink": null,
             "status": "ACTIVE"
+        },
+        {
+            "slug": "orlando-code-camp",
+            "title": "Orlando Code Camp",
+            "location": "Orlando, FL",
+            "url": "https://www.orlandocodecamp.com/",
+            "startdate": "2019-03-30",
+            "twitter": "@onetug",
+            "cfpdeadline": null,
+            "cfplink": null,
+            "status": "ACTIVE"
+        },
+        {
+            "slug": "south-florida-code-camp",
+            "title": "South Florida Code Camp",
+            "location": "Davie, FL",
+            "url": "https://www.fladotnet.com/codecamp/Home.aspx",
+            "startdate": "2019-03-02",
+            "twitter": null,
+            "cfpdeadline": null,
+            "cfplink": null,
+            "status": "ACTIVE"
         }
     ]
 }
